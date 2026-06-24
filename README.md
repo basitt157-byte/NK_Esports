@@ -92,14 +92,14 @@
         <h2 class="text-4xl font-gaming font-bold mb-16 text-center underline decoration-yellow-500 underline-offset-8">THE ELITE SQUAD</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             <div class="relative group overflow-hidden border-b-4 border-yellow-600">
-                <img src="/images/asim.jpg.jpg" alt="Player" class="grayscale group-hover:grayscale-0 transition duration-700">
+                <img src="images/asim.jpg.jpg" alt="Player" class="grayscale group-hover:grayscale-0 transition duration-700">
                 <div class="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black to-transparent">
                     <p class="text-yellow-500 font-bold">IGL</p>
                     <h4 class="text-2xl font-gaming">NK Asim</h4>
                 </div>
             </div>
             <div class="relative group overflow-hidden border-b-4 border-yellow-600">
-                <img src="/images/1.jpg.jpg" alt="Player" class="grayscale group-hover:grayscale-0 transition duration-700">
+                <img src="images/1.jpg.jpg" alt="Player" class="grayscale group-hover:grayscale-0 transition duration-700">
                 <div class="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black to-transparent">
                     <p class="text-yellow-500 font-bold">SNIPER</p>
                     <h4 class="text-2xl font-gaming">NK Mohsin</h4>
@@ -113,7 +113,7 @@
                 </div>
             </div>
             <div class="relative group overflow-hidden border-b-4 border-yellow-600">
-                <img src="/images/arham.jpg.jpg" alt="Player" class="grayscale group-hover:grayscale-0 transition duration-700">
+                <img src="images/arham.jpg.jpg" alt="Player" class="grayscale group-hover:grayscale-0 transition duration-700">
                 <div class="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black to-transparent">
                     <p class="text-yellow-500 font-bold">SUPPORT</p>
                     <h4 class="text-2xl font-gaming">NK Arham</h4>
